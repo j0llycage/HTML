@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+  	<title>Some Practice Work</title>
+	</head>
+	<body style = "background-color: orange">
+        <h2>Example of HTML & CSS Knowledge</h2>
+        <ol>
+            <li style = "background-color: blue">lists</li>
+                <ul style = "background-color: blue">
+                    <li>ordered</li>
+                    <li>unordered</li>
+                </ul>
+            <li style = "background-color: red">font play</li>
+                <ul style = "background-color: red">
+                    <li style = "font-size: 20px">size</li>
+                    <li>background color</li>
+                    <li style = "color: white">color</li>
+                    <li style = "font-family: futura">font</li>
+                    <li>word emphasis</li>
+                        <ul>
+                            <li><strong>bolding</strong></li>
+                            <li><em>italisizing</em></li>
+                        </ul>
+                </ul>
+            <li style = "background-color: green">text alignment</li>
+                <ul style = "background-color: green">
+                    <li style = "text-align: left">left aligned</li>
+                    <li style = "text-align: center">center aligned</li>
+                    <li style = "text-align: right">right aligned</li>
+                </ul>
+        </ol>
+        
+	</body>
+</html>
